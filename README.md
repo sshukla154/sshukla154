@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Seemant Shukla
 ======================================================================================================================================
 
-Senior Software Engineer — Java, Spring Boot, Angular, Cloud
-------------------------------------------------------------
+Senior Software Engineer, Java &amp; Cloud
+------------------------------------------
 
 * 🌍  I'm based in the Netherlands
-* 🏢  I build enterprise Master Data Management systems — matching, cleansing, onboarding/offboarding, golden record creation
+* 🏢  I build enterprise Master Data Management systems: matching, cleansing, onboarding/offboarding, golden record creation
 * 🧰  Java 8 → 21, Spring Boot, Angular, Kafka, PostgreSQL, Kubernetes
-* 🤖  Also working with AI agent tooling — multi-agent pipelines and LLM-assisted code review
+* 🤖  Also working with AI agent tooling: multi-agent pipelines and LLM-assisted code review
 * ✉️  You can contact me at [er.seemantshukla@gmail.com](mailto:er.seemantshukla@gmail.com)
 * 📝  I write at [medium.com/@sshukla154](https://medium.com/@sshukla154)
 
@@ -51,15 +51,17 @@ src="https://img.shields.io/github/followers/sshukla154?logo=github&style=for-th
 
 ### What I work on
 
-- **Backend** — Java 8 → 21, Kotlin, Spring Boot / Spring Security, REST APIs, layered service architecture, virtual threads
-- **Event-driven** — Kafka, JMS / ActiveMQ, Apache Camel, idempotent consumers, SSE
-- **Data** — PostgreSQL, SQL Server, MySQL, MongoDB, Flyway, JPA/Hibernate, Apache MetaModel, Elasticsearch
-- **Frontend** — Angular, TypeScript, RxJS, signals
-- **Auth** — Keycloak, OAuth2 / OIDC, JWT resource servers, CAS
-- **Platform** — Docker, Kubernetes (AKS, kind), Helm, ArgoCD, Azure, AWS, Maven, GitLab CI, GitHub Actions
-- **Observability** — OpenTelemetry, Prometheus, Grafana, Loki, Tempo
-- **Testing** — JUnit, Mockito, Testcontainers, REST Assured, Playwright, TDD
-- **AI engineering** — multi-agent pipelines, LLM-as-reviewer, human-in-the-loop gates
+| Area | Tech |
+|---|---|
+| Backend | Java 8 → 21, Kotlin, Spring Boot, Spring Security, REST APIs, layered service architecture, virtual threads |
+| Event-driven | Kafka, JMS / ActiveMQ, Apache Camel, idempotent consumers, SSE |
+| Data | PostgreSQL, SQL Server, MySQL, MongoDB, Flyway, JPA/Hibernate, Apache MetaModel, Elasticsearch |
+| Frontend | Angular, TypeScript, RxJS, signals |
+| Auth | Keycloak, OAuth2 / OIDC, JWT resource servers, CAS |
+| Platform | Docker, Kubernetes (AKS, kind), Helm, ArgoCD, Azure, AWS, Maven, GitLab CI, GitHub Actions |
+| Observability | OpenTelemetry, Prometheus, Grafana, Loki, Tempo |
+| Testing | JUnit, Mockito, Testcontainers, REST Assured, Playwright, TDD |
+| AI engineering | multi-agent pipelines, LLM-as-reviewer, human-in-the-loop gates |
 
 ### Socials
 
